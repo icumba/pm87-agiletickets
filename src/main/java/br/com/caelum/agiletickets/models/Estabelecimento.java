@@ -12,7 +12,6 @@ public class Estabelecimento {
 	@GeneratedValue(strategy = GenerationType.IDENTITY)
 	private Long id;
 
-	// atributo nome
 	private String nome;
 
 	// atributo endereco
